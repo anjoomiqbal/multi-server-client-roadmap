@@ -47,9 +47,11 @@ Temporary Items
 .apdisk
 *.xml
 *.mk
+*.dep.inc
 *.bash
 *.cpp
 *.h
 *.pdf
+*.docx
 *.properties
 *.zip
